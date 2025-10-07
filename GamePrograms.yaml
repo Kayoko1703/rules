@@ -1,11 +1,11 @@
 payload:
-  - PROCESS-NAME,EasyAntiCheat_launcher.exe
   - PROCESS-NAME,r5apex.exe
   - PROCESS-NAME,r5apex_dx12.exe
   - PROCESS-NAME,BF2042.exe
   - PROCESS-NAME,BF2042Trial.exe
-  - PROCESS-NAME,EAAntiCheat.GameServiceLauncher.exe
   - PROCESS-NAME,NeedForSpeedUnbound.exe
   - PROCESS-NAME,NeedForSpeedUnboundTrial.exe
-  - PROCESS-NAME,Link2EA.exe
-  - PROCESS-NAME,EADesktop.exe
+  - PROCESS-NAME,Battle.net.exe
+  - PROCESS-NAME,Overwatch.exe
+  - PROCESS-NAME,DeltaForceClient-Win64-Shipping.exe
+  - PROCESS-NAME,cs2.exe
