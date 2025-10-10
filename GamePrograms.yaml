@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,r5apex.exe
   - PROCESS-NAME,r5apex_dx12.exe
+  - PROCESS-NAME,bf6.exe
   - PROCESS-NAME,BF2042.exe
   - PROCESS-NAME,BF2042Trial.exe
   - PROCESS-NAME,NeedForSpeedUnbound.exe
