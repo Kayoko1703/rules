@@ -1,5 +1,7 @@
 payload:
+  - PROCESS-NAME,leigod_launcher.exe
   - PROCESS-NAME,leigod.exe
+  - PROCESS-NAME,leishenSdk.exe
   - PROCESS-NAME,r5apex.exe
   - PROCESS-NAME,r5apex_dx12.exe
   - PROCESS-NAME,bf6.exe
