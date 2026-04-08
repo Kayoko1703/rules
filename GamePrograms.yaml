@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,oopz.exe
   - PROCESS-NAME,leigod_launcher.exe
   - PROCESS-NAME,leigod.exe
   - PROCESS-NAME,leishenSdk.exe
