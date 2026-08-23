@@ -6,15 +6,16 @@ payload:
   - PROCESS-NAME,r5apex.exe
   - PROCESS-NAME,r5apex_dx12.exe
   - PROCESS-NAME,bf6.exe
-  - PROCESS-NAME,BF2042.exe
-  - PROCESS-NAME,BF2042Trial.exe
-  - PROCESS-NAME,NeedForSpeedUnbound.exe
-  - PROCESS-NAME,NeedForSpeedUnboundTrial.exe
   - PROCESS-NAME,Battle.net.exe
   - PROCESS-NAME,Overwatch.exe
   - PROCESS-NAME,DeltaForceClient-Win64-Shipping.exe
   - PROCESS-NAME,cs2.exe
   - PROCESS-NAME,Endfield.exe
+  - PROCESS-NAME,StreetFighter6.exe
+  - PROCESS-NAME,BF2042.exe
+  - PROCESS-NAME,BF2042Trial.exe
+  - PROCESS-NAME,NeedForSpeedUnbound.exe
+  - PROCESS-NAME,NeedForSpeedUnboundTrial.exe
   - PROCESS-NAME,UAGame.exe
   - PROCESS-NAME,REPO.exe
   - PROCESS-NAME,Palworld-WinGDK-Shipping.exe
